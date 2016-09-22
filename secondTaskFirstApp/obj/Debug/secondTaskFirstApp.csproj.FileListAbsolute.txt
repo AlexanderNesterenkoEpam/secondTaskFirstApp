@@ -1,0 +1,6 @@
+D:\СSharpProjects\secondTaskFirstApp\secondTaskFirstApp\bin\Debug\secondTaskFirstApp.exe.config
+D:\СSharpProjects\secondTaskFirstApp\secondTaskFirstApp\bin\Debug\secondTaskFirstApp.exe
+D:\СSharpProjects\secondTaskFirstApp\secondTaskFirstApp\bin\Debug\secondTaskFirstApp.pdb
+D:\СSharpProjects\secondTaskFirstApp\secondTaskFirstApp\obj\Debug\secondTaskFirstApp.csprojResolveAssemblyReference.cache
+D:\СSharpProjects\secondTaskFirstApp\secondTaskFirstApp\obj\Debug\secondTaskFirstApp.exe
+D:\СSharpProjects\secondTaskFirstApp\secondTaskFirstApp\obj\Debug\secondTaskFirstApp.pdb
